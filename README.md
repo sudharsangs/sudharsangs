@@ -22,7 +22,7 @@ I usually work on Javascript, [React](https://www.reactjs.org), [Gatsby](https:/
 ## Projects
 
 [Real time Chat App](https://chat-app-94yx02mhz.vercel.app/) - Real time chat application created with React JS, Node JS and WebRTC  
-[Movie Beat](https://moviebeat.netlify.app/) - A movie search web app created with OMDb API and React JS
+[Movie Beat](https://moviebeat.netlify.app/) - A movie search web app created with OMDb API and React JS  
 [Photo Gallery App](https://fotobooth.netlify.app/) - A searchable photo gallery app created with Pixabay API,React JS and Tailwind CSS  
 [Recipe App](https://recipeforlockdown.netlify.app/) - Recipe Application created with Edamam API and React JS  
 [Meme Wizard](https://memewizard.netlify.app/) - An Application to create memes built with React JS
