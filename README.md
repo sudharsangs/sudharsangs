@@ -25,8 +25,8 @@ I usually work on Javascript, [React](https://www.reactjs.org), [Gatsby](https:/
 [Movie Beat](https://moviebeat.netlify.app/) - A movie search web app created with OMDb API and React JS  
 [Photo Gallery App](https://fotobooth.netlify.app/) - A searchable photo gallery app created with Pixabay API,React JS and Tailwind CSS  
 [Recipe App](https://recipeforlockdown.netlify.app/) - Recipe Application created with Edamam API and React JS  
-[Meme Wizard](https://memewizard.netlify.app/) - An Application to create memes built with React JS
-[Advices App](https://advices.netlify.app/) - An application to generate advice
-[Math Game](https://mathgamee.herokuapp.com/) - A real time math game built using Node JS and WebRTC  
+[Meme Wizard](https://memewizard.netlify.app/) - An Application to create memes built with React JS  
+[Advices App](https://advices.netlify.app/) - An application to generate advice  
+[Math Game](https://mathgamee.herokuapp.com/) - A real time math game built using Node JS and WebRTC    
 [Weather App](https://weatherappbygss.herokuapp.com/) - A weather app built with React JS,Node JS and Postgres  
 [Fixian](https://fixian.herokuapp.com/) - A full stack app built with MERN stack to rate garages and find the best garage
