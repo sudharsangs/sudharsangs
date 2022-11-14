@@ -1,10 +1,10 @@
 Hi 👋   
-I am Sudharsan, a 22 year old Frontend Developer from Bengaluru, India.  
-I am a Frontend Developer at [Winuall](https://winuall.com/) helping teachers and tutors create their own brand. 
+I am Sudharsan, a 23 year old Frontend Engineer from Bengaluru, India.  
+I am a Currently working as a Web Engineer at [Fubo TV(https://fubo.tv)], a live TV streaming platform based out of NYC.
 I am a graduate of [Dayananda Sagar College,Bangalore](https://dscasc.edu.in/), where I studied [Bachelor of Computer Applications](https://dscasc.edu.in/departments/computer-applications/bca)   
 I usually work on Javascript, [React](https://www.reactjs.org), [Gatsby](https://www.gatsbyjs.com) and [NextJS](https://nextjs.org/). I am exploring [Golang](https://go.dev/) as well to build backend.
 
-[View My Resume](https://drive.google.com/file/d/1qIjJA2fQbAxpj1Sc7mGH-GmRz2UH1W8Y/view?usp=sharing)
+[sudharsangs.in](https://www.sudharsangs.in)
 
 
 
